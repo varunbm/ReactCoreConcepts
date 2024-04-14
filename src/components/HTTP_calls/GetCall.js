@@ -9,7 +9,6 @@ class GetCall extends Component {
       this.state = {
          posts : [],
          errMsg : ""
-         
       }
     }
     
